@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @LincomMartins
-- 👀 I’m interested in gosto de som auto motivo 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Oi, meu é Enzo Lincom
+- 👀 Meu interesse é em som auto motivo 
+- 🌱 Atualmente to aprendendo pensamento computacional 
+- 💞️ Procuro ajudar as pessoas 
+- 📫 Como chegar até a mim, só pelas redes socias 
 
 <!---
 LincomMartins/LincomMartins is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
